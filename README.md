@@ -1,4 +1,6 @@
-# 👋 Hello, Jivan Karthec B S
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hey%2C+I'm+Jivan+Karthec+)](https://git.io/typing-svg)
+
+# Jivan Karthec B S
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jivan-Karthec)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jivan-Karthec)
