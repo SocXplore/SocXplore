@@ -62,6 +62,11 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 ![Visitor Count](https://profile-counter.glitch.me/Jivan-Karthec/count.svg)
 
 ---
+# 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api?username=scriptkiddieeee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=malwarekid&theme=dark&hide_border=false)<br/>
+
+---
 
 ## 🤝 Let’s Connect!
 
