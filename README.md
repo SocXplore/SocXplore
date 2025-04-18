@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jivan-Karthec)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jivan-Karthec)
 
-I'm a **Computer Science Engineering Student** specializing in **Cybersecurity**, with a strong interest in **Blue Team operations**, **SOC environments**, and **network defense**. I thrive in hands-on labs and real-world scenarios where security matters most.
+I am a dedicated Computer Science Engineering student specializing in Cybersecurity, with a deep focus on Blue Team operations, Security Operations Center (SOC) environments, and network defense. With a strong passion for securing critical infrastructures, I thrive in hands-on labs and real-world security challenges. I am committed to enhancing system security and protecting sensitive data, leveraging both technical expertise and strategic approaches to address evolving cyber threats.
 
 ---
 
