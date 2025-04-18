@@ -61,7 +61,7 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 ---
 
 ### 👤 Profile Visit:
-![Visitor Count](https://profile-counter.glitch.me/Jivan-Karthec/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SocXplore/count.svg)
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 </div>
@@ -70,16 +70,16 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=beigeworm&theme=highcontrast" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=SocXplore&theme=highcontrast" />
     </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=beigeworm&theme=highcontrast" />
+      <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=SocXplore&theme=highcontrast" />
     </a>
 </div>
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beigeworm&theme=high-contrast)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SocXplore&theme=high-contrast)
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
