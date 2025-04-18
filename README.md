@@ -65,8 +65,13 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 
 ---
 # 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=scriptkiddieeee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=malwarekid&theme=dark&hide_border=false)<br/>
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beigeworm&theme=high-contrast)
+
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+
+<img src="https://is.gd/ljkabnwdiuj">
 
 ---
 
