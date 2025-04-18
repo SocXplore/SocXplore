@@ -58,6 +58,11 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 
 ---
 
+### 👤 Profile Visit:
+![Visitor Count](https://profile-counter.glitch.me/Jivan-Karthec/count.svg)
+
+---
+
 ## 🤝 Let’s Connect!
 
 - 🌐 [GitHub](https://github.com/Jivan-Karthec)
