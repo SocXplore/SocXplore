@@ -48,6 +48,8 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 ### 🔐 [Active Directory Security Lab](https://github.com/Jivan-Karthec/Active-Directory-Project)
 > Built a Windows domain lab with real-world use cases in **user/group policies**, **event monitoring**, and **attack simulation** using **Crowbar**. Integrated **Splunk** for live threat detection and analytics.
 
+### 🔐 [Active Directory Security Lab](https://github.com/Jivan-Karthec/SOAR-EDR)
+> This project integrates LimaCharlie for real-time threat detection and Tines for automated alert processing and response.
 ---
 
 ## 📜 Certifications
