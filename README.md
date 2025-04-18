@@ -66,7 +66,7 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 </div>
 
-<h2 align="center"> My Github Stats </h2>
+## <h2 align="center"> My Github Stats </h2>
 
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
