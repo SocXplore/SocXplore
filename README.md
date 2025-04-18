@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&random=false&width=435&lines=Hey%2C+I'm+Jivan+Karthec+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&random=false&width=435&lines=Hey%2C+I'm+Jivan+)](https://git.io/typing-svg)
 
 # Jivan Karthec B S
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jivan-Karthec)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jivan-Karthec)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SocXplore)
 
 I am a dedicated Computer Science Engineering student specializing in Cybersecurity, with a deep focus on Blue Team operations, Security Operations Center (SOC) environments, and network defense. With a strong passion for securing critical infrastructures, I thrive in hands-on labs and real-world security challenges. I am committed to enhancing system security and protecting sensitive data, leveraging both technical expertise and strategic approaches to address evolving cyber threats.
 
@@ -45,10 +45,10 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 
 ## 📁 Featured Projects
 
-### 🔐 [Active Directory Security Lab](https://github.com/Jivan-Karthec/Active-Directory-Project)
+### 🔐 [Active Directory Security Lab](https://github.com/SocXplore/Active-Directory-Project)
 > Built a Windows domain lab with real-world use cases in **user/group policies**, **event monitoring**, and **attack simulation** using **Crowbar**. Integrated **Splunk** for live threat detection and analytics.
 
-### 🔐 [Active Directory Security Lab](https://github.com/Jivan-Karthec/SOAR-EDR)
+### 🔐 [Active Directory Security Lab](https://github.com/SocXplore/SOAR-EDR)
 > This project integrates LimaCharlie for real-time threat detection and Tines for automated alert processing and response.
 ---
 
@@ -72,7 +72,7 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 
 ## 🤝 Let’s Connect!
 
-- 🌐 [GitHub](https://github.com/Jivan-Karthec)
+- 🌐 [GitHub](https://github.com/SocXplore)
 - 💼 [LinkedIn](https://www.linkedin.com/in/Jivan-Karthec)
 - 💼 [Youtube](https://www.youtube.com/@JivanKarthec)
 - 📨 Open to **SOC Analyst internships**, **cybersecurity projects**, and **collaborative Blue Team work**.
