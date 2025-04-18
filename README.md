@@ -45,7 +45,7 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 
 ## 📁 Featured Projects
 
-### 🔐 [Active Directory Security Lab](https://github.com/Jivan-Karthec/Active Directory Project)
+### 🔐 [Active Directory Security Lab](https://github.com/Jivan-Karthec/Active-Directory-Project)
 > Built a Windows domain lab with real-world use cases in **user/group policies**, **event monitoring**, and **attack simulation** using **Crowbar**. Integrated **Splunk** for live threat detection and analytics.
 
 ---
