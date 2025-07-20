@@ -18,7 +18,6 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 ## 🛡️ Core Skills
 
 ### 🧩 Blue Team & SOC Tools
-- **Threat Detection & Rules**: `Snort`, `Suricata`, `YARA`
 - **SIEM & Log Analysis**: `Splunk`, `Wazuh`, `Sysmon`
 - **Network Traffic Monitoring**: `tcpdump`, `Wireshark`
 - **Endpoint Security & Visibility**: `Sysmon`, `LimaCharlie`
