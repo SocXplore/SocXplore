@@ -21,7 +21,6 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 - **Threat Detection & Rules**: `Snort`, `Suricata`, `YARA`
 - **SIEM & Log Analysis**: `Splunk`, `Wazuh`, `Sysmon`
 - **Network Traffic Monitoring**: `tcpdump`, `Wireshark`
-- **Threat Intelligence Sharing**: `MISP`
 - **Endpoint Security & Visibility**: `Sysmon`, `LimaCharlie`
 - **Windows Hardening & AD Security**
 
@@ -39,7 +38,7 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 |----------------------|----------------------------------------------------------------------------------------------------------------|
 | 🔐 **Network Security**     | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white) ![Snort](https://img.shields.io/badge/-Snort-990000?style=for-the-badge&logo=Snort&logoColor=white) ![tcpdump](https://img.shields.io/badge/-tcpdump-005571?style=for-the-badge) |
 | 🖥️ **Endpoint Security**   | ![Sysmon](https://img.shields.io/badge/-SYSMON-1E4B9A?style=for-the-badge) ![LimaCharlie](https://img.shields.io/badge/-LimaCharlie-005F85?style=for-the-badge) |
-| 📊 **SIEM & Intel Sharing** | ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/-Wazuh-4D4D4D?style=for-the-badge) ![MISP](https://img.shields.io/badge/-MISP-ff5e5e?style=for-the-badge&logo=malwarebytes&logoColor=white) ![YARA](https://img.shields.io/badge/-YARA-404040?style=for-the-badge) |
+| 📊 **SIEM** | ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/-Wazuh-4D4D4D?style=for-the-badge)|
 
 ---
 
@@ -56,7 +55,6 @@ To join a dynamic and security-focused team as a **SOC Tier 1 Analyst**, where I
 
 - 🛡️ **Microsoft Security Analyst**
 - 📡 **Cloud Essentials**
-- 🧠 **Blue Team Junior Analyst Pathway Bundle**
 
 ---
 
